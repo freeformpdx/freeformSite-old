@@ -10,11 +10,11 @@ website:   stephenjohnellis.org
 /*
 Colors:
 Yellow - #B08B0D
-Red - #97282C
-Blue - #428F89
-Green - #5F6024
+Red - #d0473a
+Blue - #318095
+Green - #2a7d45
 Purple - #805489
-background-color: #F2EDD7
+background-color: #f8f5f0
 */
 
 @font-face {
@@ -74,7 +74,7 @@ body {
 }
 
 #logo img {
-  background-color: #e8e6e1;
+  background-color: #2a7d45;
   height: 56px;
   margin: 5px 0;
 }
@@ -109,7 +109,7 @@ body {
 
 #music-staff img {
   padding: 25px 0;
-  width: 90%;
+  width: 80%;
 }
 
 #faq-page h3 {
@@ -123,11 +123,15 @@ body {
 }
 
 #faq-page img {
-  width: 70%;
+  width: 65%;
+}
+
+#about-page h1, p {
+  text-align: left;
 }
 
 #about-page img {
-  width: 80%;
+  width: 90%;
 }
 
 .main-content {
